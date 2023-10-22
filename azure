@@ -1,3 +1,8 @@
 Hi
 I am an Devops Engineer
 sending data from azure file
+
+
+hi
+i want to add some data, check whether changes are present or not through git fetch
+Then only, i want to move the changes from GITHUB to GIT
