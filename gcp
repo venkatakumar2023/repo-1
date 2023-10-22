@@ -2,3 +2,7 @@ Hi GIT
 How are you
 I am a Devops engineer
 Adding this data from GCP file to get reflected in the machine GIT
+
+hi
+i want to add some data, check whether changes are present or not through git fetch
+Then only, i want to move the changes from GITHUB to GIT
